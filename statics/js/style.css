@@ -1,0 +1,15 @@
+.jumbotron{
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://images.unsplash.com/photo-1655669661634-2a2692fad546?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Nzl8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=1296&q=60") no-repeat center center; 
+
+}
+.jumbotron h1{
+    color: #808000;
+}
+
+.jumbotron p{
+    color: #808000;
+}
+
+body {
+    background-color: #00FFFF;
+}
